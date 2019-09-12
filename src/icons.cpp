@@ -25,6 +25,7 @@ wxBitmap *_img_marina_grn;
 wxBitmap *_img_pier_yel;
 wxBitmap *_img_plugin_logo;
 wxBitmap *_img_ramp_azu;
+wxBitmap *_img_ramp_grn;
 
 
 void initialize_images(void)
